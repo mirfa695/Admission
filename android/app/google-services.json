@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252734627950",
+    "project_id": "admission-36e1d",
+    "storage_bucket": "admission-36e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252734627950:android:7939a989d30c701f55467f",
+        "android_client_info": {
+          "package_name": "com.example.admission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252734627950-hd24fg93l13a2c70d2fn553pu4ao0vas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-0VBGBT_eiKteVZ80y44hYK1NhSlI34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252734627950-hd24fg93l13a2c70d2fn553pu4ao0vas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
